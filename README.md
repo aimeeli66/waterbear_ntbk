@@ -5,6 +5,11 @@ Sadler, Goodall, Morsy, & Spencer. (2018). Modeling urban coastal flood severity
 
 ## Getting Started
 
+https://mybinder.org/v2/gh/aimeeli66/waterbear_ntbk.git/master
+
+
+Obtained from the following steps
+
 Github repo: https://github.com/aimeeli66/waterbear_ntbk/new/master
 Binder page: https://mybinder.org/
 
